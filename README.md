@@ -6,16 +6,16 @@
 ## WeatherPy -Determining the Ideal City
 In this Python API exercise I have analyzed ideal weather conditions of cities in the latitudes and longitudes near the equator. The OpenWeatherMap API was used to retrieve cities using lat, long. The cities with ideal temperature above 70 and under 80 with wind speed of less than 10mph with cloudiness 0 were derived for a perfect vacation! The Latitudes of these cities were compares to the temperature, humidity, cloudiness and the wind speed. 
 <p align="center">
-  <img width="500" height="300" src="https://github.com/narayanan-nithya/What-s-The-Weather-Like-/blob/master/Scatter%20Plot%201.png">
+  <img width="300" height="300" src="https://github.com/narayanan-nithya/What-s-The-Weather-Like-/blob/master/Scatter%20Plot%201.png">
 </p>
 <p align="center">
-  <img width="500" height="300" src="https://https://github.com/narayanan-nithya/What-s-The-Weather-Like-/blob/master/Scatter%20Plot%202.png">
+  <img width="300" height="300" src="https://https://github.com/narayanan-nithya/What-s-The-Weather-Like-/blob/master/Scatter%20Plot%202.png">
 </p>
 <p align="center">
-  <img width="500" height="300" src="https://github.com/narayanan-nithya/What-s-The-Weather-Like-/blob/master/Scatter%20Plot%203.png">
+  <img width="300" height="300" src="https://github.com/narayanan-nithya/What-s-The-Weather-Like-/blob/master/Scatter%20Plot%203.png">
 </p>
 <p align="center">
-  <img width="800" height="500" src="https://github.com/narayanan-nithya/What-s-The-Weather-Like-/blob/master/Scatter%20Plot%204.png">
+  <img width="300" height="300" src="https://github.com/narayanan-nithya/What-s-The-Weather-Like-/blob/master/Scatter%20Plot%204.png">
 </p>
 
 ## What-s-The-Weather-Like-
