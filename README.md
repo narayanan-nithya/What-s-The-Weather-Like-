@@ -20,7 +20,7 @@ In this Python API exercise I have analyzed ideal weather conditions of cities i
 
 ## What-s-The-Weather-Like-
 <p align="center">
-  <img width="300" height="300" src="https://github.com/narayanan-nithya/What-s-The-Weather-Like-/blob/master/10320964.jpg">
+  <img width="500" height="300" src="https://github.com/narayanan-nithya/What-s-The-Weather-Like-/blob/master/equatorsign.png">
 </p>
 
 ## VacationPy - Finding hotels for your vacation
