@@ -27,9 +27,9 @@ In this Python API exercise I have analyzed ideal weather conditions of cities i
 The ideal cities from WeatherPy was saved into an output file which we used in VacationPy to find good hotels within 5000 miles of that lat long. This was achieved using the googlemaps API with nearby search. We then used this data to generate the heatmap and marker layer of the places using gmaps module. 
 
 <p align="center">
-  <img width="500" height="300" src="https://github.com/narayanan-nithya/What-s-The-Weather-Like-/blob/master/map.png">
+  <img width="500" height="300" src="https://github.com/narayanan-nithya/What-s-The-Weather-Like-/blob/master/map%20(1).png">
 </p>
 
 <p align="center">
-  <img width="500" height="300" src="https://github.com/narayanan-nithya/What-s-The-Weather-Like-/blob/master/map%20(1).png">
+  <img width="500" height="300" src="https://github.com/narayanan-nithya/What-s-The-Weather-Like-/blob/master/map.png">
 </p>
